@@ -1,0 +1,8 @@
+C:\Users\37533\Desktop\C#\gd6\gd6\bin\Debug\gd6.exe.config
+C:\Users\37533\Desktop\C#\gd6\gd6\bin\Debug\gd6.exe
+C:\Users\37533\Desktop\C#\gd6\gd6\bin\Debug\gd6.pdb
+C:\Users\37533\Desktop\C#\gd6\gd6\obj\Debug\gd6.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\C#\gd6\gd6\obj\Debug\gd6.csproj.SuggestedBindingRedirects.cache
+C:\Users\37533\Desktop\C#\gd6\gd6\obj\Debug\gd6.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\C#\gd6\gd6\obj\Debug\gd6.exe
+C:\Users\37533\Desktop\C#\gd6\gd6\obj\Debug\gd6.pdb
